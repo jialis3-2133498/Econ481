@@ -6,6 +6,7 @@
 #
 #
 #
+#
 
 # Exercise 0
 def github() -> str:
@@ -20,6 +21,8 @@ print(github())
 
 
 import numpy as np
+
+
 
 
 # In[39]:
